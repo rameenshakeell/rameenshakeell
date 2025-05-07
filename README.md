@@ -41,7 +41,7 @@ Now I’m pursuing my **Master of Science in Business Analytics** at **UIC**, wh
 ---
 
 ### 🤝 I’m looking to collaborate on:
-Projects that combine **data**, **storytelling**, and **creativity** — especially in marketing analytics, content insights, or social trends.  
+Projects that combine **data**, **storytelling**, and **creativity**, especially in marketing analytics, content insights, or social trends.  
 If you’ve got an idea and a shared vibe? I’m in.
 
 ---
@@ -53,4 +53,3 @@ If you’ve got an idea and a shared vibe? I’m in.
 
 ---
 
-> “From psychology to Python — data is where my heart (and brain) lives now.” 💕
