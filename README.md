@@ -1,6 +1,6 @@
 # 💫 Hey there! I’m Rameen Shakeel 💁🏽‍♀️
 
-🎓 From Psychology major to Digital Marketer to Data-Driven Dreamer, my journey’s been anything but ordinary.  
+🎓 From Psychology major to Digital Marketer to Data-Driven Dreamer, my journey’s been anything but ordinary.   
 I began by understanding people’s minds 🧠 and eventually fell in love with understanding patterns in data.  
 
 📊 Working in digital marketing showed me the power of creativity, but it also opened my eyes to something deeper:  
