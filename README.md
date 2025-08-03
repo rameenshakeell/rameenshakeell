@@ -26,7 +26,6 @@ Now I’m pursuing my **Master of Science in Business Analytics** at **UIC**, wh
 
 🎶 I *love* live music, concerts are my happy place  
 🎥 Into **content creation** lately: vlogs, reels, you name it  
-👗 Fashion? Always.  
 🌸 On weekends? I’m here for vibes — city strolls, rooftops, spontaneous plans
 
 ---
