@@ -1,54 +1,64 @@
-# 💫 Hey there! I’m Rameen Shakeel 💁🏽‍♀️
+# Rameen Shakeel
 
-🎓 From Psychology major to Digital Marketer to Data-Driven Dreamer, my journey’s been anything but ordinary.   
-I began by understanding people’s minds 🧠 and eventually fell in love with understanding patterns in data.  
+Master’s student in **Business Analytics** at the **University of Illinois Chicago**, with a background in digital marketing and creative strategy.  
+I work at the intersection of **data, business strategy, and intelligent systems**, translating complex and evolving data into clear, decision-ready insights.
 
-📊 Working in digital marketing showed me the power of creativity, but it also opened my eyes to something deeper:  
-How unstructured data could turn into meaningful insights that drive real impact.  
-That’s when I understood the power of *data*, and the rest is history.  
-
-Now I’m pursuing my **Master of Science in Business Analytics** at **UIC**, where I blend strategy, creativity, and analytics to tell stories that matter.
+My approach is grounded in one principle: **clarity over complexity**.  
+Strong analytics should not only predict outcomes, but support better strategic decisions in dynamic environments.
 
 ---
 
-### 💻 My Tech Stack
-
-- 🐍 Python (NumPy, Pandas, scikit-learn, matplotlib, seaborn)
-- 📈 R (tidyverse, ggplot2, caret)
-- 📊 SQL, Tableau
-- 🔠 NLP & Text Mining
-- 📦 Machine Learning Models
-- 🧠 Still learning… but learning fast!
+## Focus Areas
+- Marketing & customer analytics  
+- Strategy and business problem-solving  
+- Agentic AI systems for monitoring, evaluation, and decision support  
+- Machine learning for real-world business applications  
+- Translating unstructured and evolving data into actionable insights  
 
 ---
 
-### 🎀 A little more about me:
+## Technical Skills
 
-🎶 I *love* live music, concerts are my happy place  
-🎥 Into **content creation** lately: vlogs, reels, you name it  
-🌸 On weekends? I’m here for vibes — city strolls, rooftops, spontaneous plans
+**Programming & Data**
+- Python (pandas, NumPy, scikit-learn, matplotlib)
+- R (tidyverse, ggplot2, caret)
+- SQL
 
----
+**Analytics & Machine Learning**
+- Classification & predictive modeling
+- Text mining & sentiment analysis
+- Model evaluation (ROC, precision/recall, F1, profit-based simulation)
 
-### 📌 What I’m into right now:
-
-- Transforming data into *creative* business strategies  
-- Building machine learning models that actually *make sense*  
-- Working on cool analytics projects with real-world value  
-- Mixing my creative roots with analytical tools 🌱
-
----
-
-### 🤝 I’m looking to collaborate on:
-Projects that combine **data**, **storytelling**, and **creativity**, especially in marketing analytics, content insights, or social trends.  
-If you’ve got an idea and a shared vibe? I’m in.
+**Visualization & Tools**
+- Tableau
+- Power BI (foundational)
+- Excel, PowerPoint (executive-level storytelling)
 
 ---
 
-### 🌐 Let’s connect!
+## Selected Projects
+*(Detailed documentation available in individual repositories)*
 
-📫 Email me: **rameenshakeel98@gmail.com** , **rshak@uic.edu**
-💼 LinkedIn: https://www.linkedin.com/in/rameen-shakeel-16442a221/
+- **Agentic AI Capstone Project (In Progress)**  
+  Designing an agent-based analytical system to monitor platform and risk-signal changes over time, evaluate downstream impacts on models, and support adaptive decision-making in dynamic environments.
+
+- **Credit Risk & Loan Default Analysis**  
+  Built and evaluated predictive models to classify peer-to-peer loan default risk, incorporating profit-based evaluation to align model outputs with investment decision-making.
+
+- **Text Mining & Sentiment Analysis of Customer Reviews**  
+  Applied NLP techniques and machine-learning models to extract sentiment and behavioral insights from unstructured restaurant review data.
 
 ---
+
+## Background
+Before transitioning into analytics, I spent several years in **digital marketing and creative strategy**, working on global FMCG brands.  
+That experience shapes how I approach analytics today, combining quantitative rigor with an understanding of human behavior and market dynamics.
+
+Outside of analytics, I enjoy live music, exploring cities, and creative content projects, interests that continue to inform how I think about audience behavior and engagement.
+
+---
+
+## Connect
+- Email: rameenshakeel98@gmail.com | rshak@uic.edu  
+- LinkedIn: https://www.linkedin.com/in/rameen-shakeel-16442a221/
 
