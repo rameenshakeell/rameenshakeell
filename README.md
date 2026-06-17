@@ -39,7 +39,7 @@ Strong analytics should not only predict outcomes, but support better strategic 
 ## Selected Projects
 *(Detailed documentation available in individual repositories)*
 
-- **Agentic AI Capstone Project (In Progress)**  
+- **Agentic AI Capstone Project**  
   Designing an agent-based analytical system to monitor platform and risk-signal changes over time, evaluate downstream impacts on models, and support adaptive decision-making in dynamic environments.
 
 - **Credit Risk & Loan Default Analysis**  
