@@ -20,15 +20,15 @@ Two predictive models (lead scoring: **0.88 AUC**; churn: **0.90 AUC**) with dis
 
 `Python` `XGBoost` `SHAP` `LLM` `Power BI`
 
-### 🎯 [Customer Segmentation & Campaign Targeting](https://github.com/rameenshakeell/Marketing-Analytics---Independant-Project)
-End-to-end campaign analytics on 2,240 customer records: cleaning and imputation, SQL business analysis, K-Means segmentation into four personas, and a Tableau dashboard. Found that **22% of customers drive ~50% of revenue**, and built a targeting strategy projected to **lift response rate from 15% → 24% while cutting send volume by 65%**.
-
-`Python` `SQL` `K-Means` `Tableau`
-
 ### 📊 [Marketing Mix Modeling: Channel Attribution & Its Limits](https://github.com/rameenshakeell/marketing-mix-modeling)
 Built an MMM with adstock, saturation, and seasonality controls to attribute weekly sales across TV, search, social, and email, then **validated it against known ground truth** using a synthetic dataset I generated. Achieved **4.8% test MAPE** on holdout weeks, correctly attributed search and email, and diagnosed exactly *why* TV/social attribution fails (channel collinearity) the real-world reason MMM gets paired with incrementality testing.
 
 `Python` `Ridge Regression` `scikit-learn` `SciPy`
+
+### 🎯 [Customer Segmentation & Campaign Targeting](https://github.com/rameenshakeell/Marketing-Analytics---Independant-Project)
+End-to-end campaign analytics on 2,240 customer records: cleaning and imputation, SQL business analysis, K-Means segmentation into four personas, and a Tableau dashboard. Found that **22% of customers drive ~50% of revenue**, and built a targeting strategy projected to **lift response rate from 15% → 24% while cutting send volume by 65%**.
+
+`Python` `SQL` `K-Means` `Tableau`
 
 ### 💰 [Credit Risk & Loan Default Analysis](https://github.com/rameenshakeell/loan-default-analysis)
 Predictive modeling of peer-to-peer loan default risk on Lending Club data, evaluated not just on accuracy but on **profit-based simulation** aligning model decisions with actual investment returns.
