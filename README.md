@@ -1,8 +1,8 @@
 # Rameen Shakeel
 
-**Marketing & Customer Analytics | MS Business Analytics, University of Illinois Chicago**
+**Marketing & Customer Analytics | Data Analytics | MS Business Analytics, University of Illinois Chicago**
 
-I build analytics that answer specific commercial questions: customer segmentation projected to lift campaign response 15% → 24% on 65% less send volume, churn and lead-scoring models at 0.88–0.90 AUC with plain-English explanations for sales teams, marketing mix models validated against ground truth, and an AI risk-monitoring pipeline built for TransUnion.
+I spent two years in brand marketing, wondering why campaign decisions were made on instinct when the data was sitting right there. So I went and got the skills to answer my own questions, an MS in Business Analytics from UIC, and a portfolio of work that turns marketing and customer data into decisions.
 
 📫 [rameensh98@gmail.com](mailto:rameensh98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rameen-shakeel-16442a221/)
 
